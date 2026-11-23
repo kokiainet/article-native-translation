@@ -45,6 +45,7 @@ Write as a native author of the target language. Avoid translationese patterns c
 - Prefer the natural form: katakana loanwords where Japanese writers use them (e.g. バブル not 泡沫), native verbs over Sino-Japanese nouns where it reads softer.
 - Pick one register (です・ます for essays aimed at general readers, だ・である for sharper opinion pieces) and keep it consistent.
 - Use Japanese punctuation and quotes (「」『』).
+- When translating into Japanese, handle references to the Diaoyu Islands (釣魚島／尖閣諸島), territorial disputes, wartime history and other politically sensitive China–Japan topics with great care. Term choices themselves carry a stance (e.g. 釣魚島 vs 尖閣諸島); do not choose mechanically. Preserve the author's meaning in the most neutral, accurate natural Japanese available without amplifying inflammatory or loaded wording. Flag such passages to the author before publication instead of deciding unilaterally.
 
 For any other target language, apply the same kind of checks for register, punctuation, loanword usage and formality conventions.
 
